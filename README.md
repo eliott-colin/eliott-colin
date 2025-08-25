@@ -1,9 +1,7 @@
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=eliott-colin&show_icons=true&theme=radical)
-
 # 👋 Salut, moi c’est Eliott
 
-🎓 Étudiant full stack | 🚀 Dev sur **UniMeet**  
-💻 Passionné par **React, React Native, Node.js & Symfony**  
+🎓 Étudiant en informatique   
+💻 Passionné par **le développement web et logiciel**  
 
 ---
 
