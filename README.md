@@ -17,9 +17,10 @@
 ---
 
 ## 🕹️ Projets
-- [UniMeet](https://github.com/TON_PSEUDO/UniMeet) – App mobile pour connecter les étudiants  
-- [Clicker Pokémon](https://github.com/TON_PSEUDO/pokemon-clicker) – Petit jeu fun en React  
-- [Discord Bot](https://github.com/TON_PSEUDO/discord-bot) – Bot avec commandes amusantes et phrases personnalisées  
+- [Mood-sense](https://eliott-colin.github.io/Mood-sense/) – Site web pour la santé mentale des étudiants 
+- [Clickémon](https://github.com/eliott-colin/clicker-game) – Clicker Pokémon
+- [Portfolio](https://github.com/eliott-colin/portfolio-vite) – Portfolio
+- [Discord Bot](https://github.com/TON_PSEUDO/discord-bot) – Bot discord pour faire un classement dans un serveur 
 
 ---
 
