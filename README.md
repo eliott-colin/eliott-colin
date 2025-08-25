@@ -39,5 +39,5 @@
 [![React](https://img.shields.io/badge/React-Lover-61DAFB?logo=react&style=for-the-badge)]  
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&style=for-the-badge)]  
 [![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-FF69B4?style=for-the-badge)]  
-[![Drug](https://img.shields.io/badge/Drug-Addict-FF0000?style=for-the-badge)]
+
 
