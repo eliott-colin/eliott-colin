@@ -30,9 +30,6 @@
 
 ---
 
-✨ *"Coder, c’est transformer des idées en réalité — un commit à la fois."*  
-
----
 
 ## 🎨 Badges
 
