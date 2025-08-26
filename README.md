@@ -25,7 +25,7 @@
 ---
 
 ## 🌍 Me retrouver
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliott-blue?logo=linkedin)](https://linkedin.com/in/TON_PSEUDO)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eliott-blue?logo=linkedin)](https://linkedin.com/in/eliott-colin)  
 [![Twitter](https://img.shields.io/badge/Twitter-@TON_PSEUDO-1DA1F2?logo=twitter)](https://twitter.com/TON_PSEUDO)  
 
 ---
