@@ -20,7 +20,7 @@
 - [Mood-sense](https://github.com/eliott-colin/Mood-sense/) – Site web pour la santé mentale des étudiants 
 - [Clickémon](https://github.com/eliott-colin/clicker-game) – Clicker Pokémon
 - [Portfolio](https://github.com/eliott-colin/portfolio-vite) – Portfolio
-- [Discord Bot](https://github.com/eliott-colin/discord-bot) – Bot discord pour faire un classement dans un serveur 
+- [Discord Bot](https://github.com/eliott-colin/maxeur) – Bot discord pour faire un classement dans un serveur 
 
 ---
 
