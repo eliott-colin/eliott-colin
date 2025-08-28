@@ -17,7 +17,7 @@
 ---
 
 ## 🕹️ Projets
-- [Mood-sense](https://eliott-colin.github.io/Mood-sense/) – Site web pour la santé mentale des étudiants 
+- [Mood-sense](https://github.com/eliott-colin/Mood-sense/) – Site web pour la santé mentale des étudiants 
 - [Clickémon](https://github.com/eliott-colin/clicker-game) – Clicker Pokémon
 - [Portfolio](https://github.com/eliott-colin/portfolio-vite) – Portfolio
 - [Discord Bot](https://github.com/TON_PSEUDO/discord-bot) – Bot discord pour faire un classement dans un serveur 
