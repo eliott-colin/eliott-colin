@@ -12,11 +12,7 @@
 ---
 
 ## 🎶 En ce moment sur Spotify
-[![Spotify](https://img.shields.io/badge/Spotify-Ecouter%20ma%20musique-1DB954?logo=spotify&style=for-the-badge)](https://open.spotify.com/user/31xtf5bpkpd52fszbtzmssa5b5wi)
-
-###  Musique en cours sur Spotify
-
-![](https://now-playing-cards.vercel.app/now-playing/q?uid=31xtf5bpkpd52fszbtzmssa5b5wi)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xtf5bpkpd52fszbtzmssa5b5wi&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
