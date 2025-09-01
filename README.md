@@ -14,7 +14,7 @@
 ## 🎶 En ce moment sur Spotify
 [![Spotify](https://img.shields.io/badge/Spotify-Ecouter%20ma%20musique-1DB954?logo=spotify&style=for-the-badge)](https://open.spotify.com/user/31xtf5bpkpd52fszbtzmssa5b5wi)
 
-![Spotify Now Playing](https://spotify-playing-readme.your-deployment.com/api?theme=light&image=true&id=31xtf5bpkpd52fszbtzmssa5b5wi)
+[![Spotify Now Playing]([https://spotify-playing-readme.your-deployment.com/api?theme=light&image=true&id=31xtf5bpkpd52fszbtzmssa5b5wi](https://now-playing-cards.vercel.app/now-playing/q?uid=31xtf5bpkpd52fszbtzmssa5b5wi))](https://now-playing-cards.vercel.app/now-playing/q?uid=31xtf5bpkpd52fszbtzmssa5b5wi)
 
 ---
 
