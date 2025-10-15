@@ -6,10 +6,8 @@
 ---
 
 ## 📊 Stats GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=eliott-colin&show_icons=true&theme=tokyonight)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliott-colin&layout=compact&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliott-colin&layout=compact&theme=tokyonight&cache_seconds=180)](https://github.com/eliott-colin)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=eliott-colin&show_icons=true&theme=tokyonight)
+[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliott-colin&layout=compact&theme=tokyonight&cache_seconds=180)](https://github.com/eliott-colin)
 
 
 ---
