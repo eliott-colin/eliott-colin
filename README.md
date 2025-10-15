@@ -16,6 +16,8 @@
 
 ---*/
 
+[//]: <> (This is also a comment.)
+
 ## 🕹️ Projets
 - [Mood-sense](https://github.com/eliott-colin/Mood-sense/) – Site web pour la santé mentale des étudiants 
 - [Clickémon](https://github.com/eliott-colin/clicker-game) – Clicker Pokémon
