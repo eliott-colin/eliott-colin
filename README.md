@@ -11,10 +11,10 @@
 
 ---
 
-## 🎶 En ce moment sur Spotify
+/*## 🎶 En ce moment sur Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xtf5bpkpd52fszbtzmssa5b5wi&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
----
+---*/
 
 ## 🕹️ Projets
 - [Mood-sense](https://github.com/eliott-colin/Mood-sense/) – Site web pour la santé mentale des étudiants 
