@@ -7,7 +7,7 @@
 
 ## 📊 Stats GitHub
 <!--![Stats GitHub](https://github-readme-stats.vercel.app/api?username=eliott-colin&show_icons=true&theme=tokyonight)-->
-![github stats](https://pixel-profile.vercel.app/api/github-stats?username=eliott-colin&theme=crt)
+![github stats](https://pixel-profile.vercel.app/api/github-stats?username=eliott-colin&theme=journey)
 
 <!--[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliott-colin&layout=compact&theme=tokyonight&cache_seconds=180)](https://github.com/eliott-colin)-->
 
