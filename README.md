@@ -6,9 +6,10 @@
 ---
 
 ## 📊 Stats GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=eliott-colin&show_icons=true&theme=tokyonight)
+<!--![Stats GitHub](https://github-readme-stats.vercel.app/api?username=eliott-colin&show_icons=true&theme=tokyonight)-->
+https://pixel-profile.vercel.app/api/github-stats?username=eliott-colin&screen_effect=true&theme=rainbow
 
-[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliott-colin&layout=compact&theme=tokyonight&cache_seconds=180)](https://github.com/eliott-colin)
+<!--[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliott-colin&layout=compact&theme=tokyonight&cache_seconds=180)](https://github.com/eliott-colin)-->
 
 
 ---
